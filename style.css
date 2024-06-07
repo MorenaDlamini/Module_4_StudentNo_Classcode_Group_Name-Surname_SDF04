@@ -51,4 +51,45 @@ p {
     outline: none;
 }
 
+/* 1 */
+.btn-1{
+    color: #0c0101;
+    border: 3px solid #FFCE00;
+    background-image: linear-gradient(to right,transparent 50%,#ffce00 50%);
+    background-size: 200%;
+    background-position: 0%;
+}
+.btn-1:hover{
+    color: #050000;
+    background-position: 100%;
+    background-color:#FFCE00;
+}
+
+/* 2 */
+.btn-2{
+    color: #0c0101;
+    border: 3px solid #FFCE00;
+    background-image: linear-gradient(to top,transparent 50%,#fcfcfc 50%);
+    background-size:100% 200%;
+    background-position: 0% 0%;
+}
+.btn-2:hover{
+    color: #050000;
+    background-position:0% 100%;
+    background-color:#FFCE00;
+}
+
+/* 3 */
+.btn-3{
+    color: #0c0101;
+    border: 3px solid #FFCE00;
+    background-image: linear-gradient(to right,transparent 50%,#ffce00 50%);
+    background-size: 200%;
+    background-position: 0%;
+}
+.btn-3:hover{
+    color: #050000;
+    background-position: 100%;
+    background-color:#FFCE00;
+}
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
