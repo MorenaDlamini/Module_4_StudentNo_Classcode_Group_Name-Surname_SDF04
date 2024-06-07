@@ -38,3 +38,10 @@ Embark on this CSS journey to transform simple buttons into interactive, animate
 - Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+
+
+## Design chosen for buttons
+- I used a slide transition for the buttons 
+
+## Challenges faced with CSS
+- The biggest challenge I faced was the background positioning 
